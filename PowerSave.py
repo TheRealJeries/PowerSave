@@ -39,7 +39,7 @@ import subprocess
 ## Change these variables as needed, machinename, username and password (in byte str) VERY IMPORTANT
 sleep_time = "23:14" # Time has to be in this format
 wake_time = "23:15" 
-username = 'jeriesd1998'
+username = 'username'
 password = 'password'
 abs_path = os.path.abspath(os.getcwd()) # absolute path, needed for many situations
 
